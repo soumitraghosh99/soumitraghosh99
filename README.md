@@ -1,5 +1,5 @@
-[<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQFZAhedKyeH3g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718432701571?e=1753315200&v=beta&t=2rMBJWM4c5ECi1cUWYM6-O7wYgrmoeDRLtW-3iPLZqc"  />
 </div>
 
 ###
@@ -86,14 +86,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumitraghosh99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-](https://media.licdn.com/dms/image/v2/D5616AQFZAhedKyeH3g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718432701571?e=1753315200&v=beta&t=2rMBJWM4c5ECi1cUWYM6-O7wYgrmoeDRLtW-3iPLZqc)
